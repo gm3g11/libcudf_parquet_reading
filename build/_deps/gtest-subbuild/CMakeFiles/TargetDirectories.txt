@@ -1,3 +1,0 @@
-/home/gymeng/Desktop/cudf/cudf_24.06/cudf/cpp/examples/basic/submit/build/_deps/gtest-subbuild/CMakeFiles/gtest-populate.dir
-/home/gymeng/Desktop/cudf/cudf_24.06/cudf/cpp/examples/basic/submit/build/_deps/gtest-subbuild/CMakeFiles/edit_cache.dir
-/home/gymeng/Desktop/cudf/cudf_24.06/cudf/cpp/examples/basic/submit/build/_deps/gtest-subbuild/CMakeFiles/rebuild_cache.dir
