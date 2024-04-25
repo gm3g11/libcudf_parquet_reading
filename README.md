@@ -32,6 +32,8 @@ I have also summarized my installation steps, along with the issues I encountere
    Explain:
    
    A. Pre-compile command: cmake -S . -B build/ -DCMAKE_CUDA_ARCHITECTURES=70 -DCMAKE_CXX_STANDARD=17 -Dcudf_ROOT=/home/gymeng/Desktop/cudf/cudf_24.06/cudf/cpp/build
+
+   (For the -Dcudf_ROOT, you need to specify your libcudf directory)
    
    B. Compile command: cmake --build build/ --parallel 16
    
