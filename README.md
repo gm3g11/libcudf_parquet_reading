@@ -41,6 +41,9 @@ I have also summarized my installation steps, along with the issues I encountere
    
    (Need to modify these commands depending on your cases.)
 ### Usage
+
+For more detailed information, you can refer this report: Libcudf_project_update.pdf
+
 1. lib_arrow.cpp: The benchmark method derived from Apache Arrow.
    Compile command: g++ -O3 -fopenmp -o arrow_parquet -std=c++17 lib_arrow.cpp  -lparquet -larrow -lgomp
    Runtime command: ./arrow_parquet your_parquet_file
